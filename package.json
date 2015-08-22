@@ -1,0 +1,25 @@
+{
+  "name": "http-play",
+  "version": "0.1.0",
+  "description": "A pre-configured HTTP server to be used in demo repositories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkozlowski-opensource/http-play.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pkozlowski-opensource/http-play/issues"
+  },
+  "homepage": "https://github.com/pkozlowski-opensource/http-play#readme",
+  "dependencies": {
+    "connect": "^3.4.0",
+    "http": "0.0.0",
+    "open": "0.0.5",
+    "serve-static": "^1.10.0"
+  }
+}
